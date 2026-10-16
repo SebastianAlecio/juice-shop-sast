@@ -76,3 +76,5 @@ cypress/screenshots/
 *.sarif
 reports/
 Tarea_SAST_Bearer.pdf
+evidencias/
+Informe_SAST_Bearer.docx
